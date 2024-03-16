@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Socioloom-Backend-ASP.Net.props" />
+</Project>

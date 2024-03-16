@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Socioloom-Backend-ASP.Net.props" />
+</Project>
